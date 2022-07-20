@@ -1,4 +1,4 @@
 # Mercado Liebre
-## Poniendo Style 2.0
+## Agregando FlexBox
 
 ### Mansilla Marcos - `Comision 16`
